@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.262" height="19.823" viewBox="0 0 21.262 19.823">
+  <g id="icon_caution" transform="translate(-5.369 -6.177)">
+    <text id="_" data-name="!" transform="translate(14.188 22.066)" fill="red" font-size="12" font-family="Helvetica"><tspan x="0" y="0">!</tspan></text>
+    <path id="パス_387" data-name="パス 387" d="M16,7.177a.979.979,0,0,1,.878.521l8.631,15.823A1,1,0,0,1,24.631,25H7.369a1,1,0,0,1-.878-1.479L15.122,7.7A.979.979,0,0,1,16,7.177m0-1a1.979,1.979,0,0,0-1.756,1.042L5.613,23.042A2,2,0,0,0,7.369,26H24.631a2,2,0,0,0,1.756-2.958L17.756,7.219A1.979,1.979,0,0,0,16,6.177Z" fill="red"/>
+  </g>
+</svg>

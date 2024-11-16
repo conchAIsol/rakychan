@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <g id="アイコン" transform="translate(-5 -3)">
+    <g id="_" data-name="○" transform="translate(5 3)" fill="none" stroke="#00b300" stroke-width="2" opacity="0">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5" fill="none"/>
+    </g>
+    <g id="_2" data-name="×" transform="translate(1 0.366)" opacity="0">
+      <g id="長方形_162" data-name="長方形 162" transform="translate(14.899 5.098) rotate(135)" fill="none" stroke="red" stroke-width="1">
+        <rect width="12" height="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="11" height="1" fill="none"/>
+      </g>
+      <g id="長方形_161" data-name="長方形 161" transform="translate(6.414 3.684) rotate(45)" fill="none" stroke="red" stroke-width="1">
+        <rect width="12" height="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="11" height="1" fill="none"/>
+      </g>
+    </g>
+    <path id="中マド_2" data-name="中マド 2" d="M5,11H0L6,0l6,11H7V9H5v2ZM5,4V8H7V4Z" transform="translate(5 3)" fill="red"/>
+  </g>
+</svg>
